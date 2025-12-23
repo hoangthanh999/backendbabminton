@@ -1,6 +1,6 @@
 package com.badminton.entity.booking;
 
-import com.badminton.entity.bas
+import com.badminton.entity.base.BaseEntity;
 
 import jakarta.persistence.*;
 import lombok.*;
